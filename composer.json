@@ -1,7 +1,7 @@
 {
-    "name": "gedmo/doctrine-extensions",
+    "name": "restoclub/doctrine-extensions",
     "type": "library",
-    "description": "Doctrine2 behavioral extensions",
+    "description": "Doctrine2 behavioral extensions for Restoclub",
     "keywords": [
         "behaviors",
         "doctrine2",
@@ -15,9 +15,10 @@
         "sortable",
         "timestampable",
         "blameable",
-        "uploadable"
+        "uploadable",
+        "restoclub"
     ],
-    "homepage": "http://gediminasm.org/",
+    "homepage": "https://www.restoclub.ru/",
     "license": "MIT",
     "authors": [
         {
